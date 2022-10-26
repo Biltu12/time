@@ -1,0 +1,78 @@
+.background{
+    background: url('sunset.jpg')no-repeat;
+    height: 250px;
+    background-position: center;
+    background-size: contain;
+}
+.heading {
+    text-align: center;
+    color: white;
+}
+.biltu{
+    color: yellow;
+}
+.an{
+    color: yellow;
+    text-decoration: none;
+    margin: 0 15px;
+}
+.hey{
+    color: purple;
+}
+.logo{
+    background: url('Blogo.png')no-repeat;
+    height: 250px;
+    background-position: center;
+    background-size: contain;
+}
+.text{
+    background: url('Btestlogo.png')no-repeat;
+    height: 30px;
+    background-position: center;
+    background-size: contain;
+}
+.logo1{
+    background: url('google-logo.png')no-repeat;
+    height: 250px;
+    background-position: center;
+    background-size: contain;
+}
+.text1{
+    background: url('googletestlogo.png')no-repeat;
+    height: 40px;
+    background-position: center;
+    background-size: contain;
+}
+.logo2{
+    background: url('githublogo.png')no-repeat;
+    height: 250px;
+    background-position: center;
+    background-size: contain;
+}
+.text2{
+    background: url('githubtestlogo.png')no-repeat;
+    height: 25px;
+    background-position: center;
+    background-size: contain;
+}
+.logo3{
+    background: url('applelogo.png')no-repeat;
+    height: 250px;
+    background-position: center;
+    background-size: contain;
+}
+.text3{
+    background: url('appletestlogo.png')no-repeat;
+    height: 60px;
+    background-position: center;
+    background-size: contain;
+}
+h3{
+    text-align: center;
+}
+.aheading{
+    color: white;
+    background-color: black;
+    height: 100px;
+    text-align: center;
+}
